@@ -1,0 +1,1 @@
+# qt_academy_design_patterns_python
